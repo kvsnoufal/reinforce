@@ -6,7 +6,7 @@ Checkout [Medium Article](https://medium.com/analytics-vidhya/reinforce-algorith
 
 
 ## Cartpole
-<img src="im_mod.gif" width="900px"/>
+<img src="cp_train.gif" width="900px"/>
 
 ## Pong
 <img src="pong_gif.gif" width="900px"/>
